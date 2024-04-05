@@ -1,4 +1,4 @@
-# My_Projects
+# Projects_Data_Analytics
 
 Welcome to My_Projects! This repository is a curated collection of my personal projects in the field of Data Science, organized into three main categories: Data Analytics, Machine Learning, and SQL. Each category is dedicated to showcasing a range of skills, insights, and methodologies applied to real-world datasets.
 
